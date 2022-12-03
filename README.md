@@ -21,6 +21,7 @@
   <img align="center" alt="Jaelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jaelson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Jaelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jaelson-Vue" height="30" width="40" src="https://user-images.githubusercontent.com/80257886/205443124-9dcbae04-e6df-4d38-a27e-3fd5815edf74.png">
   <img align="right" alt="Jaelson-Octocat" height="150" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/999121878285307935/1012466155321053254/octopus.png">
 </div>
   
