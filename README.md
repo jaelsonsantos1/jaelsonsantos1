@@ -15,12 +15,13 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jaelson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jaelson-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" alt="Jaelson-Flask" height="30" width="40" src="https://img.icons8.com/ios/50/000000/flask.png" />
   <img align="center" alt="Jaelson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jaelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jaelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jaelson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Jaelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jaelson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Jaelson-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaelson-Vue" height="30" width="40" src="https://user-images.githubusercontent.com/80257886/205443124-9dcbae04-e6df-4d38-a27e-3fd5815edf74.png">
   <img align="right" alt="Jaelson-Octocat" height="150" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/999121878285307935/1012466155321053254/octopus.png">
 </div>
