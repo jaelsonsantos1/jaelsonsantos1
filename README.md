@@ -1,11 +1,9 @@
 ## Olá! Me chamo Jaelson dos Santos.
 
-- 🌱 Ainda muito novo na área de programação
-- 🔭 Futuro programador FullStack
+- 💻 Desenvolvedor BackEnd
 - 💬 Aberto a perguntas, opiniões, dicas e etc
 - ⚡ Em estudo constante sem perder o foco no objetivo
-- 🤓 Estudando desenvolvimento de Aplicações Web
-- 😄 Pronomes: Ele/Dele
+- 🦝 Estudando Go Lang
 
 <div align="center">
   <a href="https://github.com/jaelsonsantos1">
