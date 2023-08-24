@@ -21,7 +21,7 @@
   <img align="center" alt="Jaelson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Jaelson-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaelson-Vue" height="30" width="40" src="https://user-images.githubusercontent.com/80257886/205443124-9dcbae04-e6df-4d38-a27e-3fd5815edf74.png">
-  <img align="right" alt="Jaelson-Octocat" height="150" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/999121878285307935/1012466155321053254/octopus.png">
+  <img align="right" alt="Jaelson-Octocat" height="200" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/1105489740108673125/1144339302575259818/octal.png">
 </div>
   
 ##
