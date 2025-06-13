@@ -56,5 +56,5 @@
 
 <!-- Substitua YOUR_USERNAME pelo seu nome de usuário para funcionar -->
 <div align="center">
-  <img src="https://github.com/jaelsonsantos1/jaelsonsantos1/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
