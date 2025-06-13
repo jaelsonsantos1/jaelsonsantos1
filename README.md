@@ -1,9 +1,9 @@
 ## Olá! Me chamo Jaelson dos Santos.
 
-- 💻 Desenvolvedor BackEnd
+- 💻 Desenvolvedor FullStack
 - 💬 Aberto a perguntas, opiniões, dicas e etc
 - ⚡ Em estudo constante sem perder o foco no objetivo
-- 🦝 Estudando Go Lang
+- 🏗️ Estudando Arquitetura de software
 
 <div align="center">
   <a href="https://github.com/jaelsonsantos1">
