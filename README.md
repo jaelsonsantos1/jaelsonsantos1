@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <img alt="Jaelson-Octocat" height="180" src="https://cdn.discordapp.com/attachments/1229208644860776589/1383233821578629212/80257886.png?ex=684e0c62&is=684cbae2&hm=9e3d58ff1ba172b94d918aaa23735c0f43663f66907ee6ef050ae1f5cded24c1&" style="border-radius: 20px;">
+  <img src="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
