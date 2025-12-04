@@ -1,31 +1,24 @@
-<h1 align="center">Olá! Me chamo Jaelson dos Santos 👋</h1>
+<h1 align="left">Jaelson Santos</h1>
+<p align="left">
+  Full Stack Developer | Arquitetura de Software
+</p>
 
-<p align="center">
-  💻 Desenvolvedor Full Stack • 🔄 Em evolução constante • 🧠 Estudando Arquitetura de Software<br/>
-  📬 Aberto a perguntas, opiniões e sugestões — fique à vontade para entrar em contato!
+<p>
+  Desenvolvedor em constante evolução, apaixonado por criar soluções escaláveis e eficientes.
 </p>
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### Stack
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="40" width="40" src="https://img.icons8.com/ios/50/000000/flask.png">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VueJS" height="40" width="40" src="https://user-images.githubusercontent.com/80257886/205443124-9dcbae04-e6df-4d38-a27e-3fd5815edf74.png">
-</div>
-
-<br/>
+<p>
+  Backend:    Python • Django • Java • Go </br>
+  Frontend:   JavaScript • Vue.js • Nextjs • Tailwind • Bootstrap
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <div align="center">
   <a href="https://github.com/jaelsonsantos1">
@@ -36,9 +29,9 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### Contato
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/_Jaelson1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:jaelsons860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100070680121924" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -49,5 +42,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <sub>Aberto a colaborações e novas oportunidades</sub>
 </div>
