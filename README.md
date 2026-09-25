@@ -4,11 +4,11 @@
 
 <table>
   <tr>
-    <td valign="middle" width="370">
-      <img src="./assets/duck-ascii.svg" width="350" alt="Animated ASCII duck mascot" />
+    <td valign="middle" width="430">
+      <img src="./assets/duck-ascii.svg" width="420" alt="Animated ASCII duck mascot typing inside a laptop terminal" />
     </td>
-    <td valign="middle" width="490">
-      <img src="./assets/info-card.svg" width="490" alt="Jaelson Santos developer profile" />
+    <td valign="middle" width="390">
+      <img src="./assets/info-card.svg" width="390" alt="Jaelson Santos developer profile" />
     </td>
   </tr>
 </table>
