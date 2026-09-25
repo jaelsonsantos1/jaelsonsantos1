@@ -1,46 +1,61 @@
-<h1 align="left">Jaelson Santos</h1>
-<p align="left">
-  Full Stack Developer | Arquitetura de Software
-</p>
-
-<p>
-  Desenvolvedor em constante evolução, apaixonado por criar soluções escaláveis e eficientes.
-</p>
-
----
-
-### Stack
-
-<p>
-  Backend:    Python • Django • Java • Go </br>
-  Frontend:   JavaScript • Vue.js • Nextjs • Tailwind • Bootstrap
-</p>
-
----
-
-### Stats
-
 <div align="center">
-  <a href="https://github.com/jaelsonsantos1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaelsonsantos1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaelsonsantos1&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
+
+### `jaelson@github ~ $ whoami`
+
+<table>
+  <tr>
+    <td valign="middle" width="370">
+      <img src="./assets/duck-ascii.svg" width="350" alt="Animated ASCII duck mascot" />
+    </td>
+    <td valign="middle" width="490">
+      <img src="./assets/info-card.svg" width="490" alt="Jaelson Santos developer profile" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaelsonsantos1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jaelsons860@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jaelsonsantos1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### Contato
+Desenvolvedor **Full Stack** com foco em backend, automação e arquitetura de software. Gosto de transformar processos complexos em sistemas simples de operar, observáveis e fáceis de evoluir.
 
-<div align="left">
-  <a href="https://www.instagram.com/_Jaelson1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jaelsons860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100070680121924" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jaelsonsantos1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/jaelsonsantos1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</div>
+Atualmente trabalho principalmente com **Python, Django, Go, TypeScript, React/Next.js, PostgreSQL e Docker**, além de ferramentas de observabilidade e CI/CD.
 
-<br/>
+### `jaelson@github ~ $ cat stack.txt`
+
+```text
+backend       Python · Django · DRF · Go · Java
+frontend      TypeScript · React · Next.js · Tailwind CSS
+data          PostgreSQL · Pandas
+infra         Docker · GitHub Actions · Nginx
+observability Prometheus · Grafana · OpenTelemetry
+automation    Selenium · Requests · Web scraping
+```
+
+### `jaelson@github ~ $ ./focus.sh`
+
+- Construção de APIs e serviços backend confiáveis.
+- Automação de coleta e processamento de dados.
+- Observabilidade, métricas, logs e tracing distribuído.
+- Aplicações web com interfaces simples e objetivas.
+- Uso prático de IA para acelerar desenvolvimento e produtos.
+
+### `jaelson@github ~ $ ./contributions.sh`
 
 <div align="center">
-  <sub>Aberto a colaborações e novas oportunidades</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jaelsonsantos1/jaelsonsantos1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Construindo software, automatizando processos e aprendendo continuamente.</sub>
 </div>
